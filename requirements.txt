@@ -1,5 +1,4 @@
 asgiref==3.2.10
-<<<<<<< HEAD
 dj-database-url==0.5.0
 Django==3.1.2
 django-ckeditor==6.0.0
@@ -11,10 +10,9 @@ python-decouple==3.3
 pytz==2020.1
 sqlparse==0.3.1
 whitenoise==5.2.0
-=======
 Django==3.1.2
 django-ckeditor==6.0.0
 django-js-asset==1.2.2
 pytz==2020.1
 sqlparse==0.3.1
->>>>>>> 05fe4a6f422c46c03bd5eed0b345c704541576cd
+
